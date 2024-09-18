@@ -2,8 +2,13 @@
 
 //Powered-BY-Himel-Op
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNfw1716fDiYySyI8S2WtdYf4oxqb7_XTIqzpjT5eKmQsARLA3Mb7wavU&s=10" group-title="Bengali", Toofan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNfw1716fDiYySyI8S2WtdYf4oxqb7_XTIqzpjT5eKmQsARLA3Mb7wavU&s=10" group-title="Bengali", Toofan 720p
+https://stream.cloudflare-d.workers.dev/13653ad9d18afd432c8d0c09c03ee662c2c76eb1dc71444a6c37705c5fdd878dee64f7e02bb01710cbfb4f6345a52c79::90972ea585fabeb2388701b1c829735f/1396623342/Toofan.2024.720p.AMZN.WEB-DL.DDP2.0.H.265-PrimeFix.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNfw1716fDiYySyI8S2WtdYf4oxqb7_XTIqzpjT5eKmQsARLA3Mb7wavU&s=10" group-title="Bengali", Toofan 1080p
 https://fs-08.hubcdn.xyz/Toofan.2024Bengali.1080p.RAW.Hoichoi.WEB-DL.AAC.5.1.x264-XtreamHD.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODllZTljMGQtNzY4NS00OWJjLTk2Y2YtYThjYmU1YWVkYWE2XkEyXkFqcGc@._V1_.jpg" group-title="Bengali", Forget Me Not
 http://xtv.ooo:8080/movie/ali77/007755/382211.mkv
