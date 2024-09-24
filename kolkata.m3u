@@ -30,7 +30,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://nowmetv.xyz
+#KODIPROP:inputstream.adaptive.stream_headers=https://nowmetv.xyz
 #EXTINF:-1 tvg-id="491" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png", Sun Bangla
 https://sunnxt.malayalamtvhd.workers.dev/livestream7/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
