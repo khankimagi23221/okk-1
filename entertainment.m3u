@@ -99,6 +99,23 @@ https://cricfyranahin.xyz/airtel.php?id=724
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="", Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0T54ROLDWh7cBfPDZL539n7ZHytYgfxwFA&s" group-title="",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
 
- 
+
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/TV-HD-1-2.jpg" group-title="",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/Andtvhd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="", Sony Marathi
+http://217.20.112.199:8888/sonymarathi/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/8e/68/cc8e687ec1214a2d4407fc6e04f216f4.jpg" group-title="", Sony PAL
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
+
+
+
+
+
+
  
