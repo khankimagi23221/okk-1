@@ -12,7 +12,7 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Hindi Movies", B4U Movies
-https://cricfyranahin.xyz/sportzx/hex/stream.php?id=42443
+https://tamilultra.tv/api/jiotv.m3u8?id=182|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies" ,Colors_Cineplex HD
@@ -33,20 +33,17 @@ https://cricfyranahin.xyz/airtel.php?id=18337
 https://cricfyranahin.xyz/airtel.php?id=18342
 
 
-#EXTINF:-1 tvg-id="34" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png", STAR GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J5Imr5yaHdbrSIuFIKJNiw", "kid": "-wLcLLpERTiX3ghw1DzBnA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies", Star Gold HD
-https://cricfyranahin.xyz/airtel.php?id=646
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0UcNeoapiau3K7hLzHTVFZj8HstD3nSxDw&s" group-title="Hindi Movies", Star Gold HD 2
 https://cricfyranahin.xyz/airtel.php?id=5702
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23DIxCGs5O0LWgkTueiRgabxUeSclNqxBzA&usqp=CAU" group-title="Hindi Movies", Star Gold Select HD
-https://cricfyranahin.xyz/airtel.php?id=4030
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/220?cb=20211216002621" group-title="Hindi Movies", Star Gold Romance
 https://himel-op.top/sportzx/tip.php?id=227
