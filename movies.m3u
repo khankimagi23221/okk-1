@@ -12,7 +12,7 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Hindi Movies", B4U Movies
-https://tamilultra.tv/api/jiotv.m3u8?id=182|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
+https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies" ,Colors_Cineplex HD
@@ -75,6 +75,26 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-logo="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" group-title="English Movies", HBO Signature
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
  
+
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2024/09/hollymovies.webp" group-title="English Movies", Hollywood Movies
+https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lMEI4SC_W-yCyTG6BrYl_JnI_haLGbE4o8-kM1_k3zwg=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", And Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Hindi Movies", Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg" group-title="Hindi Movies", Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/y22i4LKSejzFeZexkEXvdpfxjqpCxANFqXTkZdtmCavaPnry0DA9lg5Dbm0IGBmGVXJBOq80WA=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg" group-title="Hindi Movies", Bflix Movies
+https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
 
 
 
