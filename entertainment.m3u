@@ -114,8 +114,8 @@ http://217.20.112.199:8888/sonymarathi/index.m3u8
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBserZUlPWk20gmdG5nwvyXHsEP7mqFsDLA&s" group-title="", Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 
  
