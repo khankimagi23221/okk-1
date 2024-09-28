@@ -17,22 +17,18 @@ https://tamilultra.tv/api/jiotv.m3u8?id=756|Referer=https://tamilultra.tv/api/|R
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="", Sony Aath 
-https://cricfyranahin.xyz/sportzx/hex/stream.php?id=1112197
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdvP4dXanYrpA4ixg3Q6rKCQEby3A_8gQkg&usqp=CAU" group-title="", Akash Aath
-https://cricfyranahin.xyz/airtel.m3u8?id=1029
-
+https://tamilultra.tv/api/jiotv.m3u8?id=698|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://nowmetv.xyz
 #EXTINF:-1 tvg-id="491" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png", Sun Bangla
-https://cricfyranahin.xyz/airtel.m3u8?id=5846
+https://tamilultra.tv/api/jiotv.m3u8?id=1669|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
 
 
 #EXTINF:-1 tvg-logo="https://amar.digital/wp-content/uploads/2017/06/Amar-Digital-Logo-1.png", Amar Bangla
