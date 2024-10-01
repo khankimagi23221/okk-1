@@ -8,6 +8,9 @@ https://cricfyranahin.xyz/sportzx/hexop/spz.m3u8?id=167551
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids ", Hungama Kids 
 https://cricfyranahin.xyz/sportzx/hexop/spz.m3u8?id=150480
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids ", Hungama Kids Backup
+http://150.242.202.110:824/jiobe/live/1094.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids ", Sonic Hindi
