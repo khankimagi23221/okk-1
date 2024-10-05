@@ -1,0 +1,127 @@
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/910/1/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+EXTINF:-1  tvg-logo="https://bestmediainfo.com/uploads/2014/06/9X-tashan-top.jpg", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png", Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/088b80e90a78edd8b0fe2cd720ef3908.jpeg", 9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest/scale-to-width-down/331?cb=20240322135248", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1b4hQCR2e17u_zFwlxgKh-mDLQfpNXN3GXg&s", Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/mumbai/i6/022pxx22.xx22.100708115527.d2i6/catalogue/mastiii-tv-channel-andheri-west-mumbai-hk8rmhd4oc.jpg", Music Masti
+http://cdn12.henico.net:8080/live/musicmasti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rdigitek.com/home/wp-content/uploads/2022/08/local-channel-18-150x100.png", Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg", Gaan Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/Sangeetbhojpuri.m3u8
+
+#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/04/-1.png",7x Music
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FDixsi8yZNjgL2RFPrKKBQ68Sf2BVO2bEVP98gbp5MDIL_RC8KfZ2cvn&s=10",MtvBeats 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png",V2BEAT TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/v2beattv.stream/live-orgin/v2beattv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2022/03/vh1.webp",VH1
+https://colorsscreen.com/live.php?id=1378&extension=.m3u8|Referer=https://colorsscreen.com/
+
+#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/showbox.webp",Show Box
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2023/05/joomusic.webp",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DC2Db26oMIsOoVtnq0WEenUQ7QGiaToJAw&s",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjyOEhjZiSMOh4shA0GywTsrjLv0WVVjnZw&usqp=CAU",B4u Music
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=b4umusic
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTv Music
+https://ythls-v3.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dKBpjdqRkmSJqqLUybd9iygGh1iyZgqEkqVDaYaFvrs0ZO93bbVq00L4TQH2XabJYOq1Igp1QA=s900-c-k-c0x00ffffff-no-rj",Shemaroo Filmi Gaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NFJYDc5R-PaqmJhY7-UOiAW0SPBx9KkB8ODQxnPqDHn3dGfBgYzfJxTox-fjzoEtMfWlr14oANM=s900-c-k-c0x00ffffff-no-rj",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NFJYDc5R-PaqmJhY7-UOiAW0SPBx9KkB8ODQxnPqDHn3dGfBgYzfJxTox-fjzoEtMfWlr14oANM=s900-c-k-c0x00ffffff-no-rj",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E3Mw-3r_cEYc29ivD-rRlhF9RkpgfhZ5BLgi9uFdnyImiUGLNVBv2s8rOxC3ig4iVfxrtxSE=s900-c-k-c0x00ffffff-no-rj",Saga Music Hindi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJbz501D3eMb5GnNPVnPNe_Bc-uCyZpo6qg&s",Saga Music Haryani 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23014/only-music/poster_20220207_221306.jpg",Only Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23137/m-plus/poster_20231205_180944.jpg",Only Music ,M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyso0dAXeTQ9_KOHbfDY2UkrOyG7NvCNV38rO5-c9FxnDIsn_QYhdpQHM&s=10",Mon Tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sAygLG0.jpg",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjc3FjUN_uObThUb7M1AdQ30OkphFNcN0Z1OebcfteY23-61kMsrH7lCR&s=10",Dhoom Music
+https://colorsscreen.com/live.php?id=3006&extension=.m3u8|Referer=https://colorsscreen.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
