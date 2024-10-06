@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", BigBoss HD WW
+#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", HD WW
 https://cricfyranahin.xyz/sportzx/jc/live.m3u8?id=2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01&lan=eng
 
-#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", BigBoss UHD
+#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", UHD IN
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day01/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", BigBoss HD
+#EXTINF:-1 tvg-logo="https://himel-op.top/bigboss.jpeg" group-title="", HD IN
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
 
