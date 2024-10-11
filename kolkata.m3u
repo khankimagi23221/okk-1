@@ -15,7 +15,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="", Colors Bangla HD
-https://tamilultra.tv/api/jiotv.m3u8?id=756|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
 
 
 
@@ -24,7 +24,7 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdvP4dXanYrpA4ixg3Q6rKCQEby3A_8gQkg&usqp=CAU" group-title="", Akash Aath
-https://tamilultra.tv/api/jiotv.m3u8?id=698|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
+https://tamilultra.tv/api/jiotv.m3u8?id=698|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
