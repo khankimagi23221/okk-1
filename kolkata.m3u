@@ -31,7 +31,8 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="491" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png", Sun Bangla
-https://tamilultra.tv/api/jiotv.m3u8?id=1669|Referer=https://tamilultra.tv/api/|Referer=https://tamilultra.tv/api/&user-agent=https://sportzxtv.com/
+https://tamilultra.tv/api/jiotv.m3u8?id=1669|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
+
 
 
 #EXTINF:-1 tvg-logo="https://amar.digital/wp-content/uploads/2017/06/Amar-Digital-Logo-1.png", Amar Bangla
