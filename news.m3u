@@ -45,6 +45,24 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@zeenews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png" group-title="Hindi News", Republic Bharat
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RepublicTVBharat
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/geo-news-logo-512D289714-seeklogo.com.png" group-title="Pakistani News", Geo News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@geonews
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistani News", ARY News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ArynewsTvofficial
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png" group-title="Pakistani News", Hum News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@humnewspakistan
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqKL60va0Fpi5oau5mwV0QQS6S1g5LpWqKv2On9rQpHpKC0sOv62xQG7m&s=10" group-title="Pakistani News", Suno News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@SUNONewsHD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHwN3BHIxT2GaylINutmjk1nNKjy69T3lhA&s" group-title="Pakistani News", Geo News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@samaatv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="English News", Al Jazeera English
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
 
