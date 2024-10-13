@@ -37,7 +37,7 @@ https://tamilultra.tv/api/jiotv.m3u8?id=546|Referer=https://tamilultra.tv/api/&u
 https://tamilultra.tv/api/jiotv.m3u8?id=543|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids ", Sony Yay Hindi
-https://cricsters.fun/s/stream.php?id=sony-yay
+https://keralamaxtv.com/sliv/stream.php?id=168569|Referer=https://keralamaxtv.com/sliv/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU" group-title="Kids ", Cartoon Network Hindi
 https://tamilultra.tv/api/jiotv.m3u8?id=816|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
@@ -57,8 +57,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zknae6Nq0rVK2NY-FnEo8PusqSDTbx0p-g&s" group-title="Kids ", Gubbare Kids 
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids ", Discover Kids Hindi
-https://cricfyranahin.xyz/hop/airtelop.php?id=994|Referer=https://sportzxtv.com&User-Agent=HimelOp
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids ", Discovery Kids Hindi
+https://nowmelive.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzUPDEfJZ1XosjkWUfMC4MY-4h0B4LDKTNA&s" group-title="Kids ", Pogo Hindi
 https://tamilultra.tv/api/jiotv.m3u8?id=559|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
