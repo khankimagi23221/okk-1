@@ -1,46 +1,46 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="41" tvg-name="Sky Sports Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/HncjQpgs/Sky-Sports-Cricket.png" tvg-chno="41",Sky Sports Cricket
-https://api.flixtronic.top/sportszx/cric/master.php?id=skyscric
+https://api.flixtronic.top/sportszx/cric/master.php?id=skyscric|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="42" tvg-name="Star Sports 1 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/qRh1gnCg/Star-Sports-1-HD.png" tvg-chno="42",Star Sports 1 HD 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=star1in
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=star1in|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="43" tvg-name="Star Sports 1 Hindi HD" tvg-country="US" tvg-logo="https://i.postimg.cc/PxNLT5ZX/image.jpg" tvg-chno="43",Star Sports 1 Hindi HD
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=starhindi
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=starhindi|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="44" tvg-name="A Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/8k0NxG1b/1200x600wa.png" tvg-chno="44",A Sports HD 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=asportshd
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=asportshd|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="45" tvg-name="Sky Sport 3 NewZealand" tvg-country="US" tvg-logo="https://i.postimg.cc/zGVT2qNc/sky-Sport3.png" tvg-chno="45",Sky Sport 3 NewZealand 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=sky3nz
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=sky3nz|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="46" tvg-name="PTV Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/DzyWvSgR/PTV-Sports.png" tvg-chno="46",PTV Sports HD
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=ptvpk
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=ptvpk|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="47" tvg-name="Ten Sports HD (PK)" tvg-country="US" tvg-logo="https://i.postimg.cc/kGvMNDHC/Ten-Sports-HD-Pakistan.png" tvg-chno="47",Ten Sports HD (PK) 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=tenspk
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=tenspk|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="48" tvg-name="Fox Cricket 501 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/sX8cK1QK/FOX-Cricket.png" tvg-chno="48",Fox Cricket 501 HD 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=fox501
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=fox501|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="49" tvg-name="Willow by Cricbuzz" tvg-country="US" tvg-logo="https://i.postimg.cc/XY7J08Rf/Willow-Cricbuzz.png" tvg-chno="49",Willow by Cricbuzz 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowusa
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowusa|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="50" tvg-name="Willow Xtra by Cricbuzz" tvg-country="US" tvg-logo="https://i.postimg.cc/mDPjQTnR/Willow-Xtra.png" tvg-chno="50",Willow Xtra by Cricbuzz 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowextra
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowextra|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="51" tvg-name="Sky Sports Mix HD" tvg-country="US" tvg-logo="https://i.postimg.cc/NM6k39fS/Sky-Sport-Mix.png" tvg-chno="51",Sky Sports Mix HD 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=skysmixx
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=skysmixx|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="52" tvg-name="ESPN" tvg-country="US" tvg-logo="https://i.postimg.cc/V6t1xv17/ESPN.png" tvg-chno="52",ESPN 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp3
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp3|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="53" tvg-name="TNT Sports 1" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="53",TNT Sports 1 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp1
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp1|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="54" tvg-name="TNT Sports 2" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="54",TNT Sports 2 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp2
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp2|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
 
 #EXTINF:-1 tvg-id="55" tvg-name="Super Sport Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/BZxMPyss/srtijz1643382350.png" tvg-chno="55",Super Sport Cricket 
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=supercricket
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=supercricket|Referer=https://www.xnxx.tv/&User-Agent=SportzX/1.2
